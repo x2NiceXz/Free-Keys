@@ -1,0 +1,2 @@
+_G.Keys = "CUSTOM-KEY01" -----ห้ามเปลี่ยนตรงคีย์นี้นะเด่วมันจะรันแล้วโดนเตะ!
+loadstring(game:HttpGet('https://x2nicexz.000webhostapp.com/XYzHub-BloxFruitPaid'))()
